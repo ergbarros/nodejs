@@ -1,0 +1,51 @@
+Exercicio 3>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+PDV (ponto de vendas)
+Desenvolver no scratch um app para gestão de vendas de um comercio
+(PDV) de um comercio
+Modelo:
+total: 300.00 (variavel)
+Desconto: 10% (variavel)
+total de Desconto: 270 (calculado altomaticamente)
+Valor pago em dinheiro: 300.00 (variavel)
+troco: 30.00 (calculado altomaticamente)
+
+
+_____________________________________________________________________
+//variavel
+total, Valor, Desconto
+
+//entrada
+Valor, Desconto
+
+//processamento
+total = valor - ()
+
+//saida
+total
+
+//entrada2
+dinheiro
+
+//processamento2
+troco=dinheiro-total
+
+//saida
+troco
+_____________________________________________________________________
+
+10%     de  300   =   30
+x            y      resultado
+x=Desconto/y=valor
+resultado = (x * y) / 100
+            (desconto * valor)/100
+
+Dica:
+.replace (",",".") //substituir um caractere por outro caractere
+
+Exemplos:
+.replace ("Y","y")
+.replace ("yes","y")
+.replace ("sim","s")
+.replace ("no","n")
+.replace ("não","n")
+.replace (",",".") //substituir a virgula pelo ponto
