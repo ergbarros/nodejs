@@ -1,14 +1,11 @@
 Funções
 É um bloco de código reutilizável
-*** Uma função pode ser executada do documento
-html
+*** Uma função pode ser executada do documento html
 
-// execução interna 
-html <scritp></scritp>
-// Link para um documento (recomendado)
-html ------- js
+// execução interna
+html <script></script>
+// link para um documento (recomendado)
+html ------- js 
 
 Exemplo:
-
-index.html  ------ (linkar) app.js
-
+index.html ------ app.js
