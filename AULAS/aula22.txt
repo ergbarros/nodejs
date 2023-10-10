@@ -1,0 +1,12 @@
+Atividade de avaliação POO2
+Agência bancária
+Desafio:
+1 - Encapsular os atribuitos da classe Conta
+2 - Criar mais dois objetos (clientes Robson Vaamonde, Sirlene Aparecida)
+3 - Criar um novo metodo PIX para transferência de valores entre contas corrente e tambem enter contas corrente
+Leandro tranfere para Sirlene
+4 - 
+5 - Melhorar a experiência do usuário
+
+
+

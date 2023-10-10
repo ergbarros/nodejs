@@ -15,5 +15,11 @@ Pilares:
  // Polimorfismo:
  Modifica o comportamento de um método existente na classe principal
 
+ // Encapsulamento
+Segurança (protege ao acesso as variáveis)
+-- atributos (variáveis) -> são privados
+-- métodos especificos (get e set) são usados para acessar as variáveis
+-- get
+-- set 
 
 
